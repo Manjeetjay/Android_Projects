@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="architecture">58</integer>
+    <integer name="crafts">121</integer>
+    <integer name="buisness">78</integer>
+    <integer name="culinary">118</integer>
+    <integer name="design">423</integer>
+    <integer name="fashion">92</integer>
+    <integer name="film">165</integer>
+    <integer name="gaming">164</integer>
+    <integer name="drawing">326</integer>
+    <integer name="lifestyle">305</integer>
+    <integer name="music">212</integer>
+    <integer name="painting">172</integer>
+    <integer name="photography">321</integer>
+    <integer name="tech">118</integer>
+</resources>
